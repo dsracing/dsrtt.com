@@ -34,3 +34,5 @@ permalink: pretty
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.md]
+
+host: localhost
